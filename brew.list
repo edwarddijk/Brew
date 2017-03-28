@@ -1,0 +1,9 @@
+#Brew List
+cask
+emacs
+iperf3
+openssl
+dockutil
+htop
+nmap
+wget
